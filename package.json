@@ -1,0 +1,8 @@
+{
+  "name": "javascript-testing-exercises",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test example.test.js"
+  }
+}
