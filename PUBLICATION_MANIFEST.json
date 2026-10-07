@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "title": "JavaScript testing exercises",
+  "date": "2026-10-08",
+  "title": "JavaScript testing examples",
   "completion_gate_passed": true,
   "files": [
     {
@@ -20,18 +20,18 @@
     },
     {
       "path": "package.json",
-      "sha256": "e7271e4056981e50899b11cd40385e2a2d1441eb711e97941adb32a3fd3a00f2",
-      "bytes": 154
+      "sha256": "83068c61fd085d67c9eae3aa3a3cf74bed70cd84fb540a558ffc00007f88d32c",
+      "bytes": 153
     },
     {
       "path": "README.md",
-      "sha256": "7198cf0b7e40a44df7e854f3e1cf19906dc272aed233144b9dd8f4d56d93b16c",
-      "bytes": 467
+      "sha256": "3d4cc3c8ab452dab789e04619bc28b7e9254c63932b9d14649ef703c9d07809f",
+      "bytes": 465
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "7047b9504d7218aac43b59595ad7503c6f6f6bcf4be2c3ad74e8f6c9777a8b36",
-      "bytes": 309
+      "sha256": "b8146f0359d72cdaa4af2c204466e5bc9b995a7c6a1c8cac03bd2eb2491c37d1",
+      "bytes": 312
     }
   ]
 }

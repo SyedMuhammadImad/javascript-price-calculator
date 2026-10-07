@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "project": "javascript-testing-exercises",
-  "completion_scope": "academic project or finished document; not a production certification",
+  "project": "javascript-price-calculator",
+  "completion_scope": "experimental project or finished document; not a production certification",
   "checks": [
     {
       "name": "Node functional and malformed-input tests",
